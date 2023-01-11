@@ -1,7 +1,7 @@
 # Retro-Arcade-Project
 Retro Gaming Arcade using C++ ( 24-780 Course Project)
 
-https://github.com/Adi-11797/Retro-Arcade-Project/blob/main/InCade%20Final%20Presentation.pdf
+{google_docs}https://docs.google.com/presentation/d/1P2aRML4ZvID8fYn_QH3elUxXV-02pmiN2-bPcq_cDFI{/google_docs}
 
 
 Made in collaboration with:
